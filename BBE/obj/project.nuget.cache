@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "U/lPaXIxFIKc+qjDgCDPxx+L9nGepS7jSWMu+4503H0r18B95APJJc2kIbzTI1oXr5XjUwRRYt2G+oBlj8ze4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinni\\OneDrive\\Pulpit\\BBCR 2.0 и BBE\\Baldi Basics Extra\\BBE\\BBE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinni\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vinni\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
