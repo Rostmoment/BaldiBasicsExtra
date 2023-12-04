@@ -68,6 +68,5 @@ namespace BBE.Patches
             }
             return false;
         }
-        private readonly static Dictionary<string, MapIcon> mapIcons = new Dictionary<string, MapIcon>();
     }
 }
