@@ -141,7 +141,7 @@ namespace BBE.NPCs
         [HarmonyPrefix]
         public static bool EndGame(CoreGameManager __instance, Baldi baldi, Transform player)
         {
-            // Rare death effect like Null from bbcr
+            // Death effect like Null from bbcr
             AudioManager audioManager = __instance.audMan;
             WeightedSelection<SoundObject>[] loseSounds = baldi.loseSounds;
             if (Variables.AngryBaldi)
