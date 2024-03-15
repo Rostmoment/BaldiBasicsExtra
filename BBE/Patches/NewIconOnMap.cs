@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Text;
 using UnityEngine;
 using HarmonyLib;
@@ -11,6 +11,7 @@ using UnityEngine.Rendering;
 using Rewired;
 using UnityEngine.Rendering.UI;
 using System.Runtime.InteropServices.ComTypes;
+using System.ComponentModel;
 
 namespace BBE.Patches
 {
@@ -61,6 +62,17 @@ namespace BBE.Patches
             foreach (TapePlayer tape in Object.FindObjectsOfType<TapePlayer>())
             {          
                 AddMapIcon("TapePlayer.png", tape.transform, map);      
+            }
+            if (Variables.CurrentFloor != Floor.Floor1)
+            {
+                List<MapIcon> icons = PrivateDataHelper.GetVariable<List<MapIcon>>(map, "icons");
+                foreach (MapIcon icon in icons)
+                {
+                    if (icon.name.ToString() == "Icon_Notebook(Clone)")
+                    {
+                        icon.spriteRenderer.sprite = AssetsHelper.SpriteFromFile(Path.Combine("Textures", "MapIcons", "MathMachine.png"), 22f);
+                    }
+                }
             }
         }
     }
