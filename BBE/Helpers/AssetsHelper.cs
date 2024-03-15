@@ -1,4 +1,4 @@
-﻿using BBE.Events;
+using BBE.Events;
 using BepInEx.Bootstrap;
 using MTM101BaldAPI;
 using MTM101BaldAPI.AssetTools;
@@ -49,7 +49,7 @@ namespace BBE.Helpers
             }
             else if (audio is string)
             {
-                clip = AssetLoader.AudioClipFromMod(new LoadMod(), "Audio/Events/EventTCStarted.ogg");
+                clip = AssetLoader.AudioClipFromMod(new LoadMod(), (string)audio);
             }
             if (clip == null)
             {
@@ -61,7 +61,7 @@ namespace BBE.Helpers
         }
         public static AudioClip AudioFromFile(string path)
         {
-            return AssetLoader.AudioClipFromMod(new LoadMod(), "Audio/Events/EventTCStarted.ogg");
+            return AssetLoader.AudioClipFromMod(new LoadMod(), path);
         }
         private static string ModPath = "BALDI_Data/StreamingAssets/Modded/rost.moment.baldiplus.extramod/";
     }
