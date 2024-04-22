@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "UonM7FK3bEKsSHSnYz3rTipVc+3DhPSiA6mf+c65WE2gah7IMpZTztGvGovPKdpKglNCknkiXl+ykYEfC0hOog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinni\\OneDrive\\Pulpit\\BBCR 2.0 и BBE\\BBEEndlessCompat\\BBE\\BBE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinni\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
+    "C:\\Users\\vinni\\.nuget\\packages\\bepinex.baselib\\5.4.20\\bepinex.baselib.5.4.20.nupkg.sha512",
+    "C:\\Users\\vinni\\.nuget\\packages\\bepinex.core\\5.4.21\\bepinex.core.5.4.21.nupkg.sha512",
+    "C:\\Users\\vinni\\.nuget\\packages\\bepinex.plugininfoprops\\2.1.0\\bepinex.plugininfoprops.2.1.0.nupkg.sha512",
+    "C:\\Users\\vinni\\.nuget\\packages\\harmonyx\\2.7.0\\harmonyx.2.7.0.nupkg.sha512",
+    "C:\\Users\\vinni\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\vinni\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.2\\microsoft.netframework.referenceassemblies.net46.1.0.2.nupkg.sha512",
+    "C:\\Users\\vinni\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\vinni\\.nuget\\packages\\monomod.runtimedetour\\21.12.13.1\\monomod.runtimedetour.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\vinni\\.nuget\\packages\\monomod.utils\\21.12.13.1\\monomod.utils.21.12.13.1.nupkg.sha512",
+    "C:\\Users\\vinni\\.nuget\\packages\\zeepkist.gamelibs\\1.0.0-alpha.15.26.345\\zeepkist.gamelibs.1.0.0-alpha.15.26.345.nupkg.sha512"
+  ],
+  "logs": []
+}
