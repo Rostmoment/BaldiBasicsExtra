@@ -1,4 +1,4 @@
-﻿using BepInEx;
+using BepInEx;
 using HarmonyLib;
 using MTM101BaldAPI.SaveSystem;
 using System;
@@ -29,7 +29,7 @@ namespace BBEEndless
                 {
                     data.items.Add(new WeightedItemObject() { selection=ItemFromKey("Calculator"), weight=60} );
                     data.items.Add(new WeightedItemObject() { selection = ItemFromKey("GravityDevice"), weight = 60 });
-                    data.items.Add(new WeightedItemObject() { selection = ItemFromKey("ReductionPotions"), weight = 60 });
+                    data.items.Add(new WeightedItemObject() { selection = ItemFromKey("SpeedPotion"), weight = 60 });
                     data.items.Add(new WeightedItemObject() { selection = ItemFromKey("Shield"), weight = 60 });
                 });
             }, true);
