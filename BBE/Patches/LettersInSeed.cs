@@ -1,4 +1,4 @@
-﻿using HarmonyLib;
+using HarmonyLib;
 using System;
 using System.Collections.Generic;
 using UnityEngine;
@@ -43,6 +43,7 @@ namespace BBE.Patches
             {
                 SeedIsUsed = true;
                 Seed = File.ReadAllText(path);
+                File.Delete(path);
             }
         }
         public static string GenerateRandomSeed()
@@ -207,7 +208,7 @@ namespace BBE.Patches
         [HarmonyPostfix]
         private static void NewSeed(PauseReset __instance)
         {
-            if (ModIntegration.SeedExtensionIsInstalled)
+            if (!ModIntegration.SeedExtensionIsInstalled)
             {
                 TMP_Text seedText = PrivateDataHelper.GetVariable<TMP_Text>(__instance, "seedText");
                 seedText.text = Singleton<LocalizationManager>.Instance.GetLocalizedText("PressToCopySeed") + "\n" + NewSeedInputer.Seed;
