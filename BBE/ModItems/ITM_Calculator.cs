@@ -11,7 +11,7 @@ namespace BBE.ModItems
         // Shows the correct answer on all math machines, and if there are more than one question, answers all but one of them
         public override bool Use(PlayerManager pm)
         {
-            pm.RuleBreak("usingCalculator", 5); // Правило не использовать калькулятор, честно говоря я не знаю что делает цифра 5
+            pm.RuleBreak("usingCalculator", 5); 
             foreach (MathMachine mathMachine in FindObjectsOfType<MathMachine>())
             {
                 int totalProblems = PrivateDataHelper.GetVariable<int>(mathMachine, "totalProblems");
