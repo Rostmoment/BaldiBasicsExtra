@@ -1,0 +1,357 @@
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\BBE.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\BBE.pdb
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\AlmostEngine.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\AlmostEngine.Shared.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\Assembly-CSharp.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\BepInEx.Harmony.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\BepInEx.Preloader.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\com.rlabrecque.steamworks.net.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\com.unity.multiplayer-hlapi.Runtime.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\HarmonyXInterop.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\Mono.Security.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\MTM101BaldAPI.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\NavMeshComponents.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\netstandard.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\Newtonsoft.Json.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\Rewired_Core.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\Rewired_Windows.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\System.ComponentModel.Composition.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\System.Configuration.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\System.Diagnostics.StackTrace.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\System.EnterpriseServices.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\System.Globalization.Extensions.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\System.IO.Compression.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\System.Net.Http.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\System.Runtime.Serialization.Xml.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\System.ServiceModel.Internals.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\System.Transactions.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\System.Xml.XPath.XDocument.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UModelerCommon.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\Unity.Analytics.DataPrivacy.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\Unity.Mathematics.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\Unity.ProGrids.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\Unity.RenderPipelines.Universal.Shaders.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\Unity.TextMeshPro.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\Unity.Timeline.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.AccessibilityModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.AIModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.AndroidJNIModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.AnimationModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.ARModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.AssetBundleModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.AudioModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.ClothModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.ClusterInputModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.ClusterRendererModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.CoreModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.CrashReportingModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.DirectorModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.DSPGraphModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.GameCenterModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.GIModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.GridModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.HotReloadModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.ImageConversionModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.IMGUIModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.InputLegacyModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.InputModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.JSONSerializeModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.LocalizationModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.ParticleSystemModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.PerformanceReportingModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.Physics2DModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.PhysicsModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.ProfilerModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.ScreenCaptureModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.SharedInternalsModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.SpatialTracking.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.SpriteMaskModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.SpriteShapeModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.StreamingModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.SubstanceModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.SubsystemsModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.TerrainModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.TextCoreModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.TextRenderingModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.TilemapModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.TLSModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.UI.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.UIElementsModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.UIElementsNativeModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.UIModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.UmbraModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.UNETModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.UnityConnectModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.UnityCurlModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.UnityWebRequestModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.VehiclesModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.VFXModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.VideoModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.VirtualTexturingModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.VRModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.WindModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\UnityEngine.XRModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\BepInEx.Harmony.xml
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\bin\Debug\net46\BepInEx.Preloader.xml
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\obj\Debug\net46\BBE.csproj.AssemblyReference.cache
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\obj\Debug\net46\MyPluginInfo.cs
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\obj\Debug\net46\BBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\obj\Debug\net46\BBE.AssemblyInfoInputs.cache
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\obj\Debug\net46\BBE.AssemblyInfo.cs
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\obj\Debug\net46\BBE.csproj.CoreCompileInputs.cache
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\obj\Debug\net46\BBE.csproj.CopyComplete
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\obj\Debug\net46\BBE.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\BBE\BBE\obj\Debug\net46\BBE.pdb
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\BBE.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\BBE.pdb
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\AlmostEngine.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\AlmostEngine.Shared.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\Assembly-CSharp.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\BepInEx.Harmony.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\BepInEx.Preloader.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\com.rlabrecque.steamworks.net.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\com.unity.multiplayer-hlapi.Runtime.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\HarmonyXInterop.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\Mono.Security.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\MTM101BaldAPI.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\NavMeshComponents.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\netstandard.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\Newtonsoft.Json.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\Rewired_Core.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\Rewired_Windows.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\System.ComponentModel.Composition.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\System.Configuration.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\System.Diagnostics.StackTrace.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\System.EnterpriseServices.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\System.Globalization.Extensions.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\System.IO.Compression.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\System.Net.Http.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\System.Runtime.Serialization.Xml.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\System.ServiceModel.Internals.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\System.Transactions.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\System.Xml.XPath.XDocument.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UModelerCommon.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\Unity.Analytics.DataPrivacy.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\Unity.Mathematics.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\Unity.ProGrids.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\Unity.RenderPipelines.Universal.Shaders.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\Unity.TextMeshPro.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\Unity.Timeline.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.AccessibilityModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.AIModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.AndroidJNIModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.AnimationModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.ARModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.AssetBundleModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.AudioModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.ClothModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.ClusterInputModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.ClusterRendererModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.CoreModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.CrashReportingModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.DirectorModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.DSPGraphModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.GameCenterModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.GIModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.GridModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.HotReloadModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.ImageConversionModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.IMGUIModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.InputLegacyModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.InputModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.JSONSerializeModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.LocalizationModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.ParticleSystemModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.PerformanceReportingModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.Physics2DModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.PhysicsModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.ProfilerModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.ScreenCaptureModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.SharedInternalsModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.SpatialTracking.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.SpriteMaskModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.SpriteShapeModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.StreamingModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.SubstanceModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.SubsystemsModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.TerrainModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.TextCoreModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.TextRenderingModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.TilemapModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.TLSModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.UI.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.UIElementsModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.UIElementsNativeModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.UIModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.UmbraModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.UNETModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.UnityConnectModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.UnityCurlModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.UnityWebRequestModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.VehiclesModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.VFXModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.VideoModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.VirtualTexturingModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.VRModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.WindModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\UnityEngine.XRModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\BepInEx.Harmony.xml
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\bin\Debug\net46\BepInEx.Preloader.xml
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\obj\Debug\net46\BBE.csproj.AssemblyReference.cache
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\obj\Debug\net46\MyPluginInfo.cs
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\obj\Debug\net46\BBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\obj\Debug\net46\BBE.AssemblyInfoInputs.cache
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\obj\Debug\net46\BBE.AssemblyInfo.cs
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\obj\Debug\net46\BBE.csproj.CoreCompileInputs.cache
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\obj\Debug\net46\BBE.csproj.CopyComplete
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\obj\Debug\net46\BBE.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.4\BBE\obj\Debug\net46\BBE.pdb
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\BBE.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\BBE.pdb
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\AlmostEngine.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\AlmostEngine.Shared.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\Assembly-CSharp.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\BepInEx.Harmony.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\BepInEx.Preloader.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\com.rlabrecque.steamworks.net.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\com.unity.multiplayer-hlapi.Runtime.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\HarmonyXInterop.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\Mono.Security.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\MTM101BaldAPI.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\NavMeshComponents.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\netstandard.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\Newtonsoft.Json.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\Rewired_Core.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\Rewired_Windows.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\System.ComponentModel.Composition.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\System.Configuration.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\System.Diagnostics.StackTrace.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\System.EnterpriseServices.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\System.Globalization.Extensions.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\System.IO.Compression.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\System.Net.Http.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\System.Runtime.Serialization.Xml.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\System.ServiceModel.Internals.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\System.Transactions.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\System.Xml.XPath.XDocument.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UModelerCommon.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\Unity.Analytics.DataPrivacy.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\Unity.Mathematics.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\Unity.ProGrids.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\Unity.RenderPipeline.Universal.ShaderLibrary.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\Unity.RenderPipelines.Core.ShaderLibrary.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\Unity.RenderPipelines.Universal.Runtime.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\Unity.RenderPipelines.Universal.Shaders.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\Unity.TextMeshPro.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\Unity.Timeline.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.AccessibilityModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.AIModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.AndroidJNIModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.AnimationModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.ARModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.AssetBundleModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.AudioModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.ClothModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.ClusterInputModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.ClusterRendererModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.CoreModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.CrashReportingModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.DirectorModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.DSPGraphModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.GameCenterModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.GIModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.GridModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.HotReloadModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.ImageConversionModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.IMGUIModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.InputLegacyModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.InputModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.JSONSerializeModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.LocalizationModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.ParticleSystemModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.PerformanceReportingModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.Physics2DModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.PhysicsModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.ProfilerModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.ScreenCaptureModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.SharedInternalsModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.SpatialTracking.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.SpriteMaskModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.SpriteShapeModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.StreamingModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.SubstanceModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.SubsystemsModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.TerrainModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.TextCoreModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.TextRenderingModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.TilemapModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.TLSModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.UI.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.UIElementsModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.UIElementsNativeModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.UIModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.UmbraModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.UNETModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.UnityConnectModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.UnityCurlModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.UnityTestProtocolModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.UnityWebRequestModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.VehiclesModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.VFXModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.VideoModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.VirtualTexturingModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.VRModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.WindModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.XR.LegacyInputHelpers.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\UnityEngine.XRModule.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\BepInEx.Harmony.xml
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\bin\Debug\net46\BepInEx.Preloader.xml
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\obj\Debug\net46\BBE.csproj.AssemblyReference.cache
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\obj\Debug\net46\MyPluginInfo.cs
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\obj\Debug\net46\BBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\obj\Debug\net46\BBE.AssemblyInfoInputs.cache
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\obj\Debug\net46\BBE.AssemblyInfo.cs
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\obj\Debug\net46\BBE.csproj.CoreCompileInputs.cache
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\obj\Debug\net46\BBE.csproj.CopyComplete
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\obj\Debug\net46\BBE.dll
+C:\Users\vinni\OneDrive\Pulpit\BBCR 2.0 и BBE\Baldi Basics Extra 0.5\BBE\obj\Debug\net46\BBE.pdb
