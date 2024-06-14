@@ -1,0 +1,9 @@
+{"items":[
+
+{"key":"Event_Electricity","value":"Looks like the school electricity has been down. What can be the consequences...?"},
+{"key":"Event_HookChaos","value":"Due to the oversupply of grappling hooks and for better productivity, the school faculty started using them! Be careful!"},
+{"key":"Event_TeleportationChaos","value":"Somebody found an experimental teleporter... IT'S TIME TO FUN!"},
+{"key": "Event_Sound", "value": "A deafening sound wave broke all the windows in the super schoolhouse! Try to stay calm, until your hearing comes back!"},
+{"key":"Event_Fire","value":"Oh, no! There's a fire in the school! Beware of fire to avoid burns!"}
+
+]}

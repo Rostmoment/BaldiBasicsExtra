@@ -1,0 +1,10 @@
+{"items":[
+
+{"key":"HUD_Elevators","value":"Elevators"},
+{"key":"LightsOutFunSetting","value":"Lights Out"},
+{"key":"HardModeFunSetting","value":"Hard Mode"},
+{"key":"ChaosModeFunSetting","value":"Chaos Mode"},
+{"key":"FastFunSetting","value":"Fast Mode"},
+{"key":"DVDFunSetting","value":"DVD Mode"},
+{"key":"YCTPFunSetting","value":"YCTP"}
+]}
