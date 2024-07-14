@@ -1,0 +1,16 @@
+{"items":[
+
+{"key":"Item_Shield","value":"Shield"},
+{"key":"Item_Shield_Desk","value":"Shield\nPast students of the school who tried to escape from Baldi have created a shield to protect themselves, but since it's used, it will only protect for 20 seconds"},
+{"key":"Item_Calculator","value":"Calculator"},
+{"key":"Item_Calculator_Desk","value":"Calculator\nThis device was stolen from school faculty for those who don't have time to solve problems! Very powerful and helps well in <color=red>hard</color> situations!"},
+{"key":"Item_Potion","value":"Potion of speed"},
+{"key":"Item_Potion_Desk","value":"Potion of speed\nDo you like to run, but don't like detention? Just drink this potion and you will become the fastest by almost half a minute!"},
+{"key":"Item_GravityDevice","value":"Gravity Device"},
+{"key":"Item_GravityDevice_Desk","value":"Gravity Device\nIs the shield too expensive for you? There is an alternative! Through joint development with a mysterious person, you can change gravity yourself!\n(due to a weak battery, its action is limited to 15 seconds)"},
+{"key":"Item_Glue","value":"Glue"},
+{"key":"Item_Glue_Desk","value":"Glue\nThis is Johnny's own glue, if you pour it out, then everyone will have to go around it so as not to get stuck"},
+{"key":"Item_ElevatorDeactivator","value":"Elevator deactivator"},
+{"key":"Item_ElevatorDeactivator_Desk","value":"Elevator deactivator\nClose the elevator closest to you at any time! But keep in mind that Baldi will hear it and come to the sound"}
+	
+]}

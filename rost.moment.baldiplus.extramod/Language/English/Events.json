@@ -1,0 +1,9 @@
+{"items":[
+
+{"key":"Event_Electricity","value":"Looks like the school electricity has been down. What can be the consequences...?"},
+{"key":"Event_HookChaos","value":"Wow, the grappling hook is actually very useful! I gave it to my friends as a gift, be careful!"},
+{"key":"Event_TeleportationChaos","value":"I just found an experimental teleporter... IT'S TIME TO FUN!"},
+{"key": "Event_Sound", "value": ""},
+{"key":"Event_Fire","value":"Attention! There's a fire in the school! Beware of fire to avoid being blinded"}
+
+]}
