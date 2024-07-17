@@ -15,7 +15,7 @@ using BBE.CustomClasses;
 
 namespace BBE
 {
-    [BepInPlugin("rost.moment.baldiplus.extramod", "Baldi Basics Extra", "2.1.7")]
+    [BepInPlugin("rost.moment.baldiplus.extramod", "Baldi Basics Extra", "2.1.9")]
     public class BasePlugin : BaseUnityPlugin
     {
         public static Floor CurrentFloor;
