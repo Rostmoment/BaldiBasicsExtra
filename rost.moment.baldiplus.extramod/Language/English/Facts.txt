@@ -1,0 +1,3 @@
+The chance of coughing in Johnny's store is 0.0025% every frame
+You can active authentic mode in BB+ 0.3.5 in options menu
+Just test text
