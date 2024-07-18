@@ -16,7 +16,7 @@ using MTM101BaldAPI.OptionsAPI;
 
 namespace BBE
 {
-    [BepInPlugin("rost.moment.baldiplus.extramod", "Baldi Basics Extra", "2.1.8")]
+    [BepInPlugin("rost.moment.baldiplus.extramod", "Baldi Basics Extra", "Just text")]
     public class BasePlugin : BaseUnityPlugin
     {
         public static Floor CurrentFloor;
