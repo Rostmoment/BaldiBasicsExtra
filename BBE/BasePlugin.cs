@@ -20,13 +20,10 @@ using UnityEngine.Rendering;
 
 namespace BBE
 {
-    // OOPS, I FUCKED UP BASE PLUGIN
     [BepInPlugin("rost.moment.baldiplus.extramod", "Baldi Basics Extra", "2.1.8")]
-    [BepInDependency("mtm101.rulerp.bbplus.baldidevapi", BepInDependency.DependencyFlags.HardDependency)]
     public class BasePlugin : BaseUnityPlugin
     {
         public static Floor CurrentFloor;
-        public static ManualLogSource logger = BepInEx.Logging.Logger.CreateLogSource("Baldi's Basics Extra");
         public AssetManager asset = new AssetManager();
         public static BasePlugin Instance = null;
         public void RegisterDataToGenerator(string floorName, int floorNumber, CustomLevelObject floorObject)
@@ -59,7 +56,14 @@ namespace BBE
                     floorObject.shopItems = floorObject.shopItems.AddToArray(item);
                 }
             }
-            floorObject.randomEvents.AddRange(floorData.Events);
+            foreach (CustomEventData customEventData in floorData.Events)
+			{
+				floorObject.randomEvents.Add(new WeightedRandomEvent
+				{
+					selection = customEventData.Get(),
+					weight = customEventData.Weight
+				});
+			}
             /*foreach (WeightedPosterObject posterObject in CachedAssets.posterObjects)
             {
                 floorObject.posters = floorObject.posters.AddToArray(posterObject);
@@ -68,7 +72,7 @@ namespace BBE
 
         public IEnumerator LoadAssets()
         {
-            yield return 10;
+            yield return 1;
             if (!AssetsHelper.AssetsAreInstalled())
             {
                 MTM101BaldiDevAPI.CauseCrash(Info, new Exception("Baldi's Basics Extra assets not installed! Try check if you have put foler rost.moment.baldiplus.extramod into Modded"));
@@ -104,11 +108,6 @@ namespace BBE
                 yield return "Adding pine debug compat...";
                 //PineDebugCompat.AddCompat();
             }
-            if (ModIntegration.AdvancedInstalled)
-            {
-                yield return "Adding advanced edition compat...";
-                AdvancedCompat.Setup();
-            }
             yield break;
         }
         private void OnMenu(OptionsMenu m)
@@ -117,7 +116,6 @@ namespace BBE
             ModOptions modOptions = category.AddComponent<ModOptions>();
             modOptions.category = category;
             modOptions.menu = m;
-            modOptions.DestroyMenu();
             modOptions.BuildMenu();
         }
         private void Awake()
