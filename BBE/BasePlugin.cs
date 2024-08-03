@@ -20,7 +20,8 @@ using UnityEngine.Rendering;
 
 namespace BBE
 {
-    [BepInPlugin("rost.moment.baldiplus.extramod", "Baldi Basics Extra", "2.1.9")]
+    // OOPS, I FUCKED UP BASE PLUGIN
+    [BepInPlugin("rost.moment.baldiplus.extramod", "Baldi Basics Extra", "2.1.8")]
     [BepInDependency("mtm101.rulerp.bbplus.baldidevapi", BepInDependency.DependencyFlags.HardDependency)]
     public class BasePlugin : BaseUnityPlugin
     {
