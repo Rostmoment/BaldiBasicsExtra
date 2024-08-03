@@ -1,4 +1,4 @@
-﻿using BepInEx;
+using BepInEx;
 using HarmonyLib;
 using System;
 using BBE.Helpers;
@@ -9,20 +9,25 @@ using System.Linq;
 using System.Collections;
 using BBE.ExtraContents;
 using BBE.Patches;
-using UnityEngine;
 using BBE.NPCs;
 using BBE.CustomClasses;
 using MTM101BaldAPI.OptionsAPI;
+using System.Collections.Generic;
+using System.IO;
+using BepInEx.Logging;
+using UnityEngine;
+using UnityEngine.Rendering;
 
 namespace BBE
 {
-    [BepInPlugin("rost.moment.baldiplus.extramod", "Baldi Basics Extra", "2.1.8")]
+    [BepInPlugin("rost.moment.baldiplus.extramod", "Baldi Basics Extra", "2.1.9")]
+    [BepInDependency("mtm101.rulerp.bbplus.baldidevapi", BepInDependency.DependencyFlags.HardDependency)]
     public class BasePlugin : BaseUnityPlugin
     {
         public static Floor CurrentFloor;
+        public static ManualLogSource logger = BepInEx.Logging.Logger.CreateLogSource("Baldi's Basics Extra");
         public AssetManager asset = new AssetManager();
         public static BasePlugin Instance = null;
-
         public void RegisterDataToGenerator(string floorName, int floorNumber, CustomLevelObject floorObject)
         {
             FloorData floorData = FloorData.Get(floorName.ToFloor());
@@ -53,10 +58,7 @@ namespace BBE
                     floorObject.shopItems = floorObject.shopItems.AddToArray(item);
                 }
             }
-            foreach (CustomEventData customEventData in floorData.Events)
-            {
-                floorObject.randomEvents.Add(new WeightedRandomEvent() { selection = customEventData.Get(), weight = customEventData.Weight });
-            }
+            floorObject.randomEvents.AddRange(floorData.Events);
             /*foreach (WeightedPosterObject posterObject in CachedAssets.posterObjects)
             {
                 floorObject.posters = floorObject.posters.AddToArray(posterObject);
@@ -65,7 +67,12 @@ namespace BBE
 
         public IEnumerator LoadAssets()
         {
-            yield return 1;
+            yield return 10;
+            if (!AssetsHelper.AssetsAreInstalled())
+            {
+                MTM101BaldiDevAPI.CauseCrash(Info, new Exception("Baldi's Basics Extra assets not installed! Try check if you have put foler rost.moment.baldiplus.extramod into Modded"));
+                yield break;
+            }
             yield return "Creating floors...";
             FloorData.Create();
             yield return "Creating textures...";
@@ -86,7 +93,6 @@ namespace BBE
             Creator.CreateNPCs();
             yield return "Creating fun settings...";
             Creator.CreateFunSettings();
-            yield return "Checking for update...";
             if (ModIntegration.EditorIsInstalled)
             {
                 yield return "Adding level editor compat...";
@@ -97,6 +103,11 @@ namespace BBE
                 yield return "Adding pine debug compat...";
                 //PineDebugCompat.AddCompat();
             }
+            if (ModIntegration.AdvancedInstalled)
+            {
+                yield return "Adding advanced edition compat...";
+                AdvancedCompat.Setup();
+            }
             yield break;
         }
         private void OnMenu(OptionsMenu m)
@@ -105,6 +116,7 @@ namespace BBE
             ModOptions modOptions = category.AddComponent<ModOptions>();
             modOptions.category = category;
             modOptions.menu = m;
+            modOptions.DestroyMenu();
             modOptions.BuildMenu();
         }
         private void Awake()
