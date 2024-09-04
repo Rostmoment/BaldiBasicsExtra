@@ -1,4 +1,4 @@
-﻿using BepInEx;
+using BepInEx;
 using HarmonyLib;
 using System;
 using BBE.Helpers;
@@ -22,7 +22,7 @@ using BBP_Playables.Core;
 
 namespace BBE
 {
-    [BepInPlugin("rost.moment.baldiplus.extramod", "Baldi's Basics Extra", "2.1.9.3")]
+    [BepInPlugin("rost.moment.baldiplus.extramod", "Baldi's Basics Extra", "2.1.9.4")]
     [BepInDependency("mtm101.rulerp.baldiplus.levelloader", BepInDependency.DependencyFlags.HardDependency)]
     [BepInDependency("mtm101.rulerp.bbplus.baldidevapi", BepInDependency.DependencyFlags.HardDependency)]
     public class BasePlugin : BaseUnityPlugin
