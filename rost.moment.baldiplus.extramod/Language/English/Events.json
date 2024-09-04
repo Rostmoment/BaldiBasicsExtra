@@ -1,0 +1,16 @@
+{"items":[
+
+{"key":"Event_Electricity1","value":"Oh no, looks like the school is having problems with electricity!"},
+{"key":"Event_Electricity2","value":"But don't worry about my TV, because it is battery powered"},
+{"key":"Event_HookChaos1","value":"Due to an overabundance of grappling hooks and to increase productivity"},
+{"key":"Event_HookChaos2","value":"I have given them away to everyone!"},
+{"key":"Event_HookChaos3","value":"Be careful!"},
+{"key":"Event_TeleportationChaos1","value":"Uh oh! Somebody must've activated my newly experimental teleporter!"},
+{"key":"Event_TeleportationChaos2", "value":"I think you should be ready, because there's gonna be some unexpected fun!"},
+{"key":"Event_Sound", "value": ""},
+{"key":"Event_Fire1","value":"Attention, everyone!"},
+{"key":"Event_Fire2","value":"There are fires appearing everywhere in the school!"},
+{"key":"Event_Fire3","value":"I recommend not getting any near them at all"},
+{"key":"Event_Fire4","value":"Otherwise you might get blinded"}
+
+]}

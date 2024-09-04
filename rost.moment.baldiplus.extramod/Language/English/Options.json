@@ -1,0 +1,15 @@
+{"items":[
+
+{"key":"BBEOption","value":"BBE options"},
+{"key":"WelcomeOption","value":"Welcome to Baldi's Basics <color=red>Extra</color>\noptions menu!"},
+{"key":"ModVersion","value":"Current version: {0}\nLatest version: {1}"},
+{"key":"CheckVersion","value":"Check mod's version"},
+{"key":"CheckVersionDesk","value":"Checking mod's version from GitHub page"},
+{"key":"WentWrong","value":"Oops... Something went wrong..."},
+{"key":"OpenGamebananaPage","value":"Open gamebanana page"},
+{"key":"OpenGamebananaPageDesk","value":"Open mod's page on gamebanana"},
+{"key":"OpenGithubPage","value":"Open GitHub page"},
+{"key":"OpenGithubPageDesk","value":"Open mod's source code on GitHub"},
+{"key":"OpenFolder","value":"Open mod's folder"},
+{"key":"OpenFolderDesk","value":"Open mod's assets folder"}
+]}

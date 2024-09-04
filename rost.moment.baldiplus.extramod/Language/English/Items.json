@@ -1,0 +1,23 @@
+{"items":[
+
+{"key":"Item_Shield","value":"Shield"},
+{"key":"Item_Shield_Desk","value":"Shield\nPast students of the school who tried to escape from Baldi have created a shield to protect themselves, but\nsince it's used, it will only protect for 20 seconds"},
+{"key":"Item_Calculator","value":"Calculator"},
+{"key":"Item_Calculator_Desk","value":"Calculator\nThis device was stolen from school faculty for those who don't have time to solve problems!\nVery powerful and helps well in <color=red>hard</color> situations!"},
+{"key":"Item_Potion","value":"Potion of speed"},
+{"key":"Item_Potion_Desk","value":"Potion of speed\nDo you like to run, but don't like detention?\nJust drink this potion and you will become the fastest by almost half a minute!"},
+{"key":"Item_GravityDevice","value":"Gravity Device"},
+{"key":"Item_GravityDevice_Desk","value":"Gravity Device\nIs the shield too expensive for you? There is an alternative! Through joint development with a mysterious\nperson, you can change gravity yourself!\n(due to a weak battery, its action is limited to 15 seconds)"},
+{"key":"Item_Glue","value":"Glue"},
+{"key":"Item_Glue_Desk","value":"Glue\nThis is Johnny's own glue, if you pour it out, then everyone will have to go around it so as not to get stuck"},
+{"key":"Item_IceBomb","value":"Ice Bomb"},
+{"key":"Item_IceBomb_Desk","value":"Ice Bomb\nFreeze everyone for 5 seconds and after freezing make them slower"},
+{"key":"IceBombUsed", "value":"*Ice Shock*"},
+{"key":"Item_MagicRuby","value":"Magic Ruby"},
+{"key":"Item_MagicRuby_Desk","value":"Magic Ruby\nThat's strange magic ruby can make portals! But, only one, and you can return to place where you use last time!"},
+{"key":"Item_TimeRewinder","value":"Time Rewinder"},
+{"key":"Item_TimeRewinder_Desk","value":"Time Rewinder\nStrange device which can rewind characters moves for 5 seconds back"},
+{"key":"Item_StrawberryZestyBar","value":"Strawberry Zesty Bar"},
+{"key":"Item_StrawberryZestyBar_Desk","value":"Strawbery Zesty Bar\nEnergy Favored Zest Bar is now more energetic with strawberry taste! Restore 300% of stamina and savor the taste of strawberries!\nBut there is a side effect - stamina is lost even if you are standing up"}
+	
+]}
