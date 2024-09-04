@@ -1,4 +1,4 @@
-﻿using BBE.CustomClasses;
+using BBE.CustomClasses;
 using BBE.Events;
 using BBE.Events.HookChaos;
 using BBE.ModItems;
@@ -101,7 +101,7 @@ namespace BBE.Helpers
         {
             SoundObject sound = AssetsHelper.CreateSoundObject("Audio/Events/Starts/BBE_TeleportationChaos.wav", SoundType.Voice, Color.green, 11.3f, "Event_TeleportationChaos1");
             sound = sound.AddAdditionalKey("Event_TeleportationChaos2", 5.2f);
-          
+            CreateObjects.CreateEvent<TeleportationChaosEvent>("TeleportationChaos", 60, sound, Floor.Floor2, Floor.Floor3, Floor.Endless);
             CreateObjects.CreateEvent<SoundEvent>("SoundEvent", 45, 50, 60, sound, Floor.Floor1);
             sound = AssetsHelper.CreateSoundObject("Audio/Events/Starts/BBE_HookChaos.wav", SoundType.Voice, Color.green, 11.3f, "Event_HookChaos1");
             sound = sound.AddAdditionalKey("Event_HookChaos2", 5.03f).AddAdditionalKey("Event_HookChaos3", 8.23f);
